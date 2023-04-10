@@ -1,5 +1,5 @@
 ## 在cesium 中绘制 polygon , polyline , point 
-npm i cesiumgraphing
+## npm i cesiumgraphing
 ```js
 import { polygon, polyline, drawPoint } from 'cesiumgraphing'
 let options = {
